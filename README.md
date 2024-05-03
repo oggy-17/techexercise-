@@ -37,6 +37,12 @@ e) Based on the verification results, appropriate success or error messages are 
                                     
                                         ######## IMPORTANT #########
 
-1- You can download the image that contains the happy color, in the png format, have the 512x512 pixels, and non-transparent pixels are within the circle from here ( https://ibb.co/SNLfYbM  ) to test the functionalities.
+1- You can download the image that contains the happy color, in the png format, have the 512x512 pixels, and non-transparent pixels are within the circle from here ( https://ibb.co/SNLfYbM ) to test the functionalities.
 
-2- You can download the that does not have the happy color, but fulfil every other condition from here ( https://ibb.co/vm1RxJb  ) to test the functionalities.
+2- You can download the that does not have the happy color, but fulfil every other condition from here ( https://ibb.co/vm1RxJb ) to test the functionalities.
+
+                                        ##### SCREENSHOTS ######
+
+1- When it fulfills all the conditions: https://ibb.co/0fJ1k2v
+
+2- When it doesn't fulfill the conditions: https://ibb.co/kQ39sfT
