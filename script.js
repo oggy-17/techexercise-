@@ -99,7 +99,7 @@ function processPNGImage(pngImageData, preview) {
           if (isCircle && hasHappyColors) {
               preview.appendChild(img);
               const successMessage = document.getElementById('successMessage');
-              successMessage.textContent = 'The specified image is in png format, 512x512 pixels, Non-Transparent Pixels are within the circle, and gives the happy feeling';
+              successMessage.textContent = 'Congratulations! The specified image is in png format, 512x512 pixels, Non-Transparent Pixels are within the circle, and gives the happy feeling';
               successMessage.style.display = 'block'; // Display the success message
           } else {
               if (!isCircle) {
