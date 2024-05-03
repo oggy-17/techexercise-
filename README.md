@@ -1,27 +1,27 @@
-# techexercise-
-A Tech Exercise for Software Engineer Intern Position
 
-Description About This Short Tech Exercise:
+# Tech Exercise for Software Engineer Intern Position
+
+## Description About This Short Tech Exercise:
 
 This short exercise has been completed using three languages that are HTML, CSS, and JavaScript.
 
 Let me break down the details.
 
-1- HTML:
+### 1- HTML:
 
 a) The HTML file contains a simple structure for a badge uploader web page.
 b) It includes an input element of type file with the ID "badgeInput" and a label associated with it for selecting a badge image.
 c) The selected badge image is displayed in a div with the ID "previewBadge".
 d) Below the preview, there is a paragraph element with the ID "successMessage" for displaying success messages.
 
-2- CSS:
+### 2- CSS:
 
 a) The CSS file styles the elements in the HTML file to provide a visually appealing layout.
 b) It sets the body font-family, background color, and margin.
 c) The container class defines styles for the main container holding the badge uploader elements.
 d) Styles are defined for the badge input, label, preview badge, and success message.
 
-3- JavaScript:
+### 3- JavaScript:
 
 a) The JavaScript file contains functionality for verifying the badge image uploaded by the user.
 b) It listens for the change event on the badge input element.
@@ -35,7 +35,7 @@ d) It then processes the PNG image to ensure it meets certain conditions:
 e) Based on the verification results, appropriate success or error messages are displayed.
 
                                     
-                                        *********** IMPORTANT **********
+                                        ######## IMPORTANT #########
 
 1- You can download the image that contains the happy color, in the png format, have the 512x512 pixels, and non-transparent pixels are within the circle from here ( https://ibb.co/SNLfYbM  ) to test the functionalities.
 
